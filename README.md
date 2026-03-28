@@ -36,7 +36,7 @@
   或
 
   ```shell
-  iwr -useb https://raw.githubusercontent.com/hanmaoye/IDM-Activation-Script/main/IAS.ps1 | iex
+  iwr -useb https://raw.githubusercontent.com/Cotton059/IDM-Activation-Script/main/IAS.ps1 | iex
   ```
 
   或
