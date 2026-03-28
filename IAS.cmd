@@ -8,9 +8,9 @@
 ::
 ::   IDM Activation Script (IAS)
 ::
-::   Homepages: https://github.com/hanmaoye/IDM-Activation-Script
+::   Homepages: https://github.com/Cotton059/IDM-Activation-Script
 ::
-::       Email: hanmaoye@qq.com
+::       Email: Cotton059@qq.com
 ::
 ::============================================================================
 
